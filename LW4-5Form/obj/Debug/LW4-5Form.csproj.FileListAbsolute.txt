@@ -1,0 +1,20 @@
+D:\УЧЕБА 4 КУРС\Нейроинформатика\ЛР4-5\LW4-5Form\bin\Debug\LW4-5Form.exe.config
+D:\УЧЕБА 4 КУРС\Нейроинформатика\ЛР4-5\LW4-5Form\bin\Debug\LW4-5Form.exe
+D:\УЧЕБА 4 КУРС\Нейроинформатика\ЛР4-5\LW4-5Form\bin\Debug\LW4-5Form.pdb
+D:\УЧЕБА 4 КУРС\Нейроинформатика\ЛР4-5\LW4-5Form\obj\Debug\LW4-5Form.csproj.AssemblyReference.cache
+D:\УЧЕБА 4 КУРС\Нейроинформатика\ЛР4-5\LW4-5Form\obj\Debug\LW4_5Form.Form1.resources
+D:\УЧЕБА 4 КУРС\Нейроинформатика\ЛР4-5\LW4-5Form\obj\Debug\LW4_5Form.Properties.Resources.resources
+D:\УЧЕБА 4 КУРС\Нейроинформатика\ЛР4-5\LW4-5Form\obj\Debug\LW4-5Form.csproj.GenerateResource.cache
+D:\УЧЕБА 4 КУРС\Нейроинформатика\ЛР4-5\LW4-5Form\obj\Debug\LW4-5Form.csproj.CoreCompileInputs.cache
+D:\УЧЕБА 4 КУРС\Нейроинформатика\ЛР4-5\LW4-5Form\obj\Debug\LW4-5Form.exe
+D:\УЧЕБА 4 КУРС\Нейроинформатика\ЛР4-5\LW4-5Form\obj\Debug\LW4-5Form.pdb
+D:\circus\45\LW4-5Form\bin\Debug\LW4-5Form.exe.config
+D:\circus\45\LW4-5Form\bin\Debug\LW4-5Form.exe
+D:\circus\45\LW4-5Form\bin\Debug\LW4-5Form.pdb
+D:\circus\45\LW4-5Form\obj\Debug\LW4-5Form.csproj.AssemblyReference.cache
+D:\circus\45\LW4-5Form\obj\Debug\LW4_5Form.Form1.resources
+D:\circus\45\LW4-5Form\obj\Debug\LW4_5Form.Properties.Resources.resources
+D:\circus\45\LW4-5Form\obj\Debug\LW4-5Form.csproj.GenerateResource.cache
+D:\circus\45\LW4-5Form\obj\Debug\LW4-5Form.csproj.CoreCompileInputs.cache
+D:\circus\45\LW4-5Form\obj\Debug\LW4-5Form.exe
+D:\circus\45\LW4-5Form\obj\Debug\LW4-5Form.pdb
